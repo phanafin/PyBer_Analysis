@@ -11,7 +11,7 @@
   
   With the revenue and Average Fare per Ride, as well as the Average Fare per Driver, the PyBer leadership requested information on Total Fare by City Type over a specific date range (Jan 1, 2019 thru Apr 29, 2019).  The data was analyzed and the results are shown in Figure 8;
   
-  http://localhost:8888/view/analysis/Fig8.png
+  https://github.com/phanafin/PyBer_Analysis/blob/main/analysis/Fig8.png
   
   3.) Summary
     As a result of the data analysis and the leaderships desire to allocate resources to the areas of their business that haas the most need, I make the following recommendations;
