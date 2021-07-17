@@ -7,7 +7,7 @@
 2.) Results
   The first task at hand was to come up with a summary that would clearly show the leadership personel a breakdown of the average dollar values that are atributed to each type of city.  For example, the Rural cities had 125 total rides given by 78 drivers which produced $4,328 in revenue (See Fig. 9 for Total Fare by Type discription).  
   
-  http://localhost:8888/view/analysis/Fig9.png
+  https://github.com/phanafin/PyBer_Analysis/blob/main/analysis/Fig9.png
   
   With the revenue and Average Fare per Ride, as well as the Average Fare per Driver, the PyBer leadership requested information on Total Fare by City Type over a specific date range (Jan 1, 2019 thru Apr 29, 2019).  The data was analyzed and the results are shown in Figure 8;
   
